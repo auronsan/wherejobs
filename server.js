@@ -42,7 +42,7 @@ app.get('/sstack', function(req, res){
 
 // Finally, we'll just send out a message to the browser reminding you that this app does not have a UI.
 
-res.send('Check your22 con2sole!')
+res.send('Success')
 
     
         
@@ -87,7 +87,8 @@ app.get('/swfh', function(req, res){
 
 // Finally, we'll just send out a message to the browser reminding you that this app does not have a UI.
 
-res.send('Check your22 con2sole!')
+
+res.send('Success')
 
     
         
